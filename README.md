@@ -48,7 +48,7 @@ npm start
 
 ```sh
 cd frontend
-npm run dev
+npm run serve
 ```
 
 ## Meta
